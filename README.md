@@ -31,6 +31,8 @@ Data obtained from the different social networking sites was highly anomalous an
 
 # Results
 
+[![](http://img.youtube.com/vi/3UbeZPRI3C8/0.jpg)](http://www.youtube.com/watch?v=3UbeZPRI3C8 "Automated ChatBot for College Queries")
+
 For more information about the implementation, please refer [Automated ChatBot for College Queries](https://medium.com/@Devashi_Choudhary/automated-chatbot-for-college-queries-19b03d72e3c8).
 
 # Contributions
