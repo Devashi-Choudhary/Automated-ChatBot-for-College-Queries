@@ -25,7 +25,7 @@ Data obtained from the different social networking sites was highly anomalous an
 1. You will first have to download the repository and then extract the contents into a folder.
 2. Make sure you have the correct version of Python installed on your machine. This code runs on Python 3.6 above.
 3. Now, you need to install the libraries required.
-4. For getting Dataset, please contact us at [this](devashi882@gmail.com).
+4. For getting Dataset, please contact us at [this](https://mail.google.com/mail/u/1/#inbox).
 5. Now, you can run the python script on terminal using :
 `python filename.py`
 
