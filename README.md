@@ -38,7 +38,7 @@ For more information about the implementation, please refer [Automated ChatBot f
 # Contributions
 
 1. [Gitika Chhabra](https://github.com/ChhabraGitika)
-2. [Ritwik Mitra]()
+2. [Ritwik Mitra](https://github.com/ritwik18010)
 
 # Acknowledgement
 
