@@ -1,3 +1,21 @@
+# Note 
+
+Hi, 
+
+Thanks for approaching me for Dataset related information, as it belongs to IIIT Delhi and we have collected the data from various resources. The dataset is private and it's not good practice to share it outside.
+
+Most of you have asked about it's format, so that format I can share.
+
+It has basically in pair of question answer and we are running our models on that only. 
+
+I hope, this information will be helpful. Still you have doubts, please mail me over devashi882@gmail.com
+
+Small request, if this repo is helpful please hit the ⭐
+
+Thanks,
+Devashi
+
+
 # Automated-ChatBot-for-College-Queries
 We are building an automatic chatbot for answering college-related queries that are frequently asked by students. Students have a lot of queries and the queries are quite varied so, the aim of our chatbot is tp serve this purpose efficiently. 
 
@@ -25,7 +43,6 @@ Data obtained from the different social networking sites was highly anomalous an
 1. You will first have to download the repository and then extract the contents into a folder.
 2. Make sure you have the correct version of Python installed on your machine. This code runs on Python 3.6 above.
 3. Now, you need to install the libraries required.
-4. For getting Dataset, please contact us at devashi882@gmail.com.
 5. Now, you can run the python script on terminal using :
 `python filename.py`
 
